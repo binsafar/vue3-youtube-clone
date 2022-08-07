@@ -1,8 +1,9 @@
 <script setup lang="ts">
+import HeaderCom from "@/components/HeaderCom.vue";
 </script>
 
 <template>
   <div>
-    <h1>Home</h1>
+    <HeaderCom/>
   </div>
 </template>
