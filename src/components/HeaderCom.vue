@@ -11,7 +11,7 @@
 
     <div class="middle">
       <input type="text">
-      <button></button>
+      <button> </button>
     </div>
 
     <div class="right">
